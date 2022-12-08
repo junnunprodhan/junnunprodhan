@@ -11,14 +11,14 @@
 ## :eyes: Current overview
 
 <div align="left">
-<a"><img align="right" src="https://github.com/junnunprodhan/junnunprodhan/blob/main/devcard.svg" width="200" alt="Junnun Prodhan's Dev Card"/></a>
+<a"><img align="right" src="https://github.com/junnunprodhan/junnunprodhan/blob/main/githubcover.png" width="200" alt="Junnun Prodhan's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - In Programming Hero. 
-### 🌱 I’m exploring - Advance motion graphics for web. 
+### 🔭 I’m Web developer. 
+### 🌱 I’m exploring - Advance ReactJS for web. 
 ### 👯 I’m looking - To collaborate on open source projects. 
 ### 🤔 I’m trying - To help people learn web development. 
-### ⚡ Fun fact - I love to make complex origami and I can speak 5 languages.
+### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
 
 
 <br />
