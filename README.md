@@ -58,18 +58,19 @@
 
 <br />
 
-## :computer: Technologies that I know
-<br>
-<p align="center">
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/css.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/react.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/node.png"/>
-<img src="https://github.com/junnunprodhan/junnunprodhan/blob/main/images/icons/express.png"/>
-</p><br/>
+
+### 🛠 &nbsp;Learning Now
+![Socket](https://img.shields.io/badge/-Socket-05122A?style=flat&logo=socket.io)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-05122A?style=flat&logo=postgresql)&nbsp;\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)
+
+<br />
 
 ## :chart_with_upwards_trend: Current Stats
 
