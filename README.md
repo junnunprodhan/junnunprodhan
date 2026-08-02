@@ -41,7 +41,7 @@ BBB@@@@@@@@@@@@@@@@@@@@@@@@@BBB@5    2@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@B@
 </pre>
 </div>
 
-![I am a Full-Stack Developer. ](https://github.com/junnunprodhan/junnunprodhan/blob/main/images/githubcover.png)
+![I am a Full-Stack developer.](https://github.com/junnunprodhan/junnunprodhan/blob/main/images/githubcover.png)
 
 ## :mailbox: Reach me out
 
