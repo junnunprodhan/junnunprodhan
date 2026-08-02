@@ -39,7 +39,7 @@ BBB@@@@@@@@@@@@@@@@@@@@@@@@@BBB@5    2@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@B@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@;  h@9BB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
 
-![I am a MERN-Stack and Front-end developer.](https://github.com/junnunprodhan/junnunprodhan/blob/main/images/githubcover.png)
+![I am a Full-Stack developer.](https://github.com/junnunprodhan/junnunprodhan/blob/main/images/githubcover.png)
 
 ## :mailbox: Reach me out
 
