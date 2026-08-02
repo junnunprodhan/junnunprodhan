@@ -1,46 +1,17 @@
-<div align="center">
-<pre>
-;                             :;iXAX2253M2i
-                          s2shSGSSS#99B9S#GMh35X
-                        :hBS@@@@@@@@@@@@@@@@@B@BGXi
-                       2#B99@@@@@@@@@@@@@@@@@@@@@92
-                       A#@@@BHh32XsA32rsA3MHS@@@Ss
-                        h@@M:                iS@S
-                        H@#X                  A@B;
-                        X@Hi                  ;#S
-                        :Br :rX2555r;;rX22Xri: hA
-                       i;5;rs5M#9SShisHS#BSh2r:s;
-                       Xii i :;ir;sr  2ssXri; :;s2
-                       ;ss        :            rA;
-                         Ms       XX;A5        5;
-                         MGi;     s252A;     ;AS
-                         ;Gh5;rMM22AXAAAhhr;53H3
-                          MB#GS5irs5h5sriAHH@BS
-                          ;S@@@93A25552X2G@@@#;
-                           rM9@@@@@@@@@@@@@9h:
-                          Xrr5H#B@@@@@@@BShX 52
-                    ;s5HhM9M ssA3hMHGGHh5As;iBBMi
-               ;rA3H9@@#GS#Bi;Xsiirsssrrssr 5@99SGH5r
-          ;rA3MHS#B@@@#GS##@G  ssriiirrsr  rB99#S#9@BGh2r:
-     :A53MHGGSS#9@@@BSS99#9B@2  :;;;;;:    9@##SSSS#@B#SGHh5Asi
-     hSSGGGSS#9B@B9#SSS9B99B@#  ;         5@9B9BB9SS#B9SSSSSSGGHHMhX
-   ;M#S#SS##9BBB9#SSS#9B9999B#    ;;ii    #9####SSSS#99#SSSSSSSS#SS#i
-  sH#BBB##99999#SSSSS9B999999@r      ;   AB#9###9###############9#9#M:
- rSGS#B@999999##SSS##9B999999B3     r    G9#####99B#######9999#B9B9SSM
-:G9999B@B99999######99B999999BH         s9#9##99#B9#####9999BBB@BB#SG#3
-M##B@@@@@@B99999999999BB999999S         H9#999##9B###99BBBBBBB@@B##99##r
-#9BB@@@@@@@BBB99999BBBB@B999999i       i9#9999#9@9999BBBBBBBB@@@@@@@9#9H
-9B@@@@@@@@@@@BBBBBBBBBBB@99999@2       MB999999@B9BBB@@@@@@@@@@@@@@B@@B9
-BB@@@@@@@@@@@@@@@@BBBBBB@B9999@H      i9999999@@BBB@@@@@@@@@@@@@@@@@@@B9
-B@@@@@@@@@@@@@@@@@@@@@@B@@B99BBB      hB99999B@@BBBB@@@@@@@@@@@@@@@@B999
-#9BB@@@@@@@@@@@@@@@@@@@@@@@BBBB@r     9B9BB9B@@@BBBBB@@@@@@@@@@@@@@@@@@B
-BBB@@@@@@@@@@@@@@@@@@@@@@@@@BBB@5    2@BBBB@@@@@@@@@@@@@@@@@@@@@@@@@@@B@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@BB@H    S@999@@@@@@@@@@@@@@@@@@@@@@@@@@BB@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@B@9   r@999B@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@;  h@9BB@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-</pre>
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/junnunprodhan/junnunprodhan/main/images/ascii-portrait.svg"
+    width="680"
+    alt="ASCII portrait"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/junnunprodhan/junnunprodhan/main/images/githubcover.png"
+    alt="I am a MERN-Stack and Front-end developer"
+  />
+</p>
 ![I am a Full-Stack developer.](https://github.com/junnunprodhan/junnunprodhan/blob/main/images/githubcover.png)
 
 ## :mailbox: Reach me out
